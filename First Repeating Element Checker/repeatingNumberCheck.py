@@ -11,5 +11,3 @@ def printFirstRepeating(arr, n):
 arrToCheck = [16, 2, 5, 6, 2, 5, 6]
 n = len(arrToCheck)
 print(printFirstRepeating(arrToCheck, n))
-
-# This code is contributed by karthikeyakumarnallam
