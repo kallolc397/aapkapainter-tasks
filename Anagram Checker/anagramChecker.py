@@ -1,4 +1,4 @@
-# Python3 program for the above approach
+
 from collections import Counter
 
 # function to check if two strings are
